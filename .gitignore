@@ -1,0 +1,1 @@
+.terraform/ echo *.tfstate echo *.tfstate.* echo crash.log echo crash.*.log echo override.tf echo override.tf.json echo *_override.tf echo *_override.tf.json 
